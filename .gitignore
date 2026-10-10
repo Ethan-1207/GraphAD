@@ -1,0 +1,20 @@
+# ADNI 数据受 Data Use Agreement 约束，严禁公开分发
+rawdata_ADNIMERGE2/
+DATADIC_*.csv
+data/
+result/
+test_result/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# IDE / 系统
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
